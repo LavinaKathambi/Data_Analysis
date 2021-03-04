@@ -1,2 +1,2 @@
 # DataAnalysis
-Detailed data Analysis using Jupyter Notebook
+All my projects on Data Analysis with Python
