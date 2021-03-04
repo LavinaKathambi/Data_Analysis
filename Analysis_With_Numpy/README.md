@@ -1,0 +1,2 @@
+# NUMPY
+I took a course on Udemy; "Python for Data Science and Machine Learning bootcamp" This Repository Contains Notebooks on some of the learnings I got from the course as well as my own Numpy practise and secondary reference. It covers an Introduction to Numpy, Numpy Arrays, Creation of Numpy Arrays and their attributes, Numpy Array Indexing and Selection, Popular Operations and practice quizes and solutions. 
